@@ -3,3 +3,7 @@ sometext
 function add(int a, int b){
  return a + b;
 }
+
+function remove(int a, int b){
+ return a - b;
+}
